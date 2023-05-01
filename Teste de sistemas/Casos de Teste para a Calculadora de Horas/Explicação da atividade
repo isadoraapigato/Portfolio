@@ -1,0 +1,18 @@
+A proposta era elaborar uma especificação de casos te Teste para o app que calcula horas:
+
+Testar as seguintes somas:
+00:20 + 01:20 - Resultado esperado é 01:40
+01:30 + 02:30 - Resultado esperado é 04:00
+02:40 + 01:90 - Resultado esperado é 05:10
+
+Testas as seguintes subtrações:
+12:40 - 07:25 - Resultado esperado é 05:15
+02:05 - 01:70 - Resultado esperado é 00:05
+01:00 - 00:20 - Resultado esperado é 00:40
+00:400 - 02:60 - Resultado esperado é 03:40
+00:200 - 01:00 - Resultado esperado é 02:20
+
+Documentar todas as entradas testadas e saídas obtidas.
+Obs: a atividade não tem como objetivo corrigir as falhas do app (não mexer no código), apenas testar suas funcionalidades (requisitos funcionais).
+
+Gostei de fazer essa atividade, testar quais são os erros e acertos do meu projeto, para se necessário melhorar o desenvolvimento do aplicativo.
