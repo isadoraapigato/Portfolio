@@ -1,9 +1,0 @@
-Descrição:  A proposta da atividade era criar um app, utilizar o ViewPager2 e o TabLayout, criar 4 fragments e mudar o TextView (ou criar um Button e mudar o texto) de cada um deles para:
-Primeiro Fragmento: "Seu Nome Completo" ex: Jackson Dener Wrublak
-Segundo Framento: "Sua turma" ex: 3D;
-Terceiro Fragmento: "Cidade que você mora" ex: Florianópolis;
-Quarto Fragmento: "Time que você torce" (caso não torça para nenhum time, escreva:'não tenho time') ex: Chapecoense
-
-Os nomes das abas (tabs) deviam ser respectivamente: Nome, Turma, Cidade, Time
-
-Escolhi essa atividade porque consegui fixar ainda mais sobre Fragments e achei bem interativa.
