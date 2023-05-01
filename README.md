@@ -1,4 +1,4 @@
-<h1 align="center"> Portfolio </h1> 
+<h1 align="center"> 📓 Portfolio 📓 </h1> 
 <p align="center"> O repositório conterá os trabalhos realizados no curso Desenvolvimento de Sistemas - Sesi Senai. </p>
 <br>
 
