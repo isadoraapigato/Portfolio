@@ -1,0 +1,5 @@
+A proposta foi: 
+"Atividade 1: Você tem duas tabelas em um banco de dados: "clientes" e "pedidos". A tabela "clientes" possui as colunas "id", "nome" e "email", enquanto a tabela "pedidos" possui as colunas "id", "cliente_id" e "valor". Crie uma consulta que retorne o nome do cliente e o valor total de todos os pedidos cliente fez. Ordene os resultados em ordem decrescente.
+Atividade 2:
+Você tem duas tabelas em um banco de dados: "alunos" e "notas". A tabela "alunos" possui as colunas "id", "nome" e "curso", enquanto a tabela "notas" possui as colunas "id", "aluno_id" e "nota". Crie uma consulta que retorne o nome do aluno, o curso e a média das notas. Inclua apenas os alunos que possuem notas registradas e ordene os resultados pela média das notas em ordem decrescente."
+Eu adorei realizar essa atividade e gostei da dinâmica abordada, foi uma ótima maneira de aprofundar o conteúdo e uma oportunidade bacana para eu desenvolver meu conhecimento e fazer o que eu gosto.
