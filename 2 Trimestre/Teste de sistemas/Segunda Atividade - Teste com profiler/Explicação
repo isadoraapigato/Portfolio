@@ -1,1 +1,13 @@
+A proposta da tividade era realizar o teste de desempenho do aplicativo de cadastro de produtos desenvolvido em sala de aula (também disponível nos vídeos que o professor deixou na semana passada da publicação da atividade), utilizando o Profiler do Android Studio para analisar métricas de desempenho e identificar possíveis áreas de melhoria.
+Instruções a seguir:
+1 - Dividir-se em grupos de 4 ou 5 pessoas;
+2 - Cada grupo deve seguir o tutorial do Profiler (em anexo) para realizar testes de desempenho em seus aplicativos.
+Monitorar as métricas: uso de CPU, uso de memória e uso de energia, durante a execução do aplicativo;
+3 - Cada grupo deve registrar os resultados obtidos durante os testes de desempenho (anotações ou prints);
+4 - Análise e Relatório final: Cada grupo deve preparar um relatório final documentando os resultados do teste de desempenho, as observações feitas e as possíveis melhorias identificadas. O relatório deve incluir as métricas de desempenho registradas, como uso de CPU, uso de memória e uso de energia.
+
+Utilizar o Network Inspector para monitorar o uso de rede em cada ação do app, registrar e justificar os resultados obtidos.
+(View -> Tool Windows -> App Inspection)
+
+Escolhi essa atividade porque achei dinâmica e me ajudou bastante a fixar o conteúdo , desenvolvi habilidades e discuti sobre o tema com meu grupo, espero que continue tendo esse tipo de atividade.
 
